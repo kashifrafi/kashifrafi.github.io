@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Kashif_Pics_46146692.jpg
+![image](https://github.com/user-attachments/assets/2850d02a-5683-435e-8f0f-cae59334f4b5)
+
 
 # Hello, I'm Kashif Rafi  
 
