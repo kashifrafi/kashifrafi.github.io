@@ -27,7 +27,7 @@ As a dedicated technologist, I'm committed to constantly evolving and discoverin
 
 ## Google
 
-[https://partner.cloudskillsboost.google/public_profiles/04a3c030-4bb8-443e-8b61-57730dd959f6]
+https://partner.cloudskillsboost.google/public_profiles/04a3c030-4bb8-443e-8b61-57730dd959f6
 
 ![image](https://github.com/user-attachments/assets/71131c6b-1fc4-427a-bf32-78aa7d0f1eb9)
 ![image](https://github.com/user-attachments/assets/e26ae118-a07c-415e-b53d-71a04a33d3fa)
