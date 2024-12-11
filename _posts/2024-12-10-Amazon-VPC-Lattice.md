@@ -4,7 +4,7 @@ dates: 2024-10-12
 categories: [AWS, VPC, EKS, VPC Lattice]
 tags: [AWS, VPC, EKS, VPC Lattice]
 image:
- path: aws-vpc-lattice.jpg
+ path: Kashif_Pics_46146692.jpg
  alt: "AWS VPC Lattice"
 ---
 
