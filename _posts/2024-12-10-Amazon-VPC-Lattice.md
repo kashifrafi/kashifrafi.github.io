@@ -1,11 +1,11 @@
 ---
 title: Amazon VPC Lattice
-
 dates: 2024-10-12
 categories: [AWS, VPC, EKS, VPC Lattice]
 tags: [AWS, VPC, EKS, VPC Lattice]
+image: ![image](https://github.com/user-attachments/assets/d5444595-9771-4472-b581-63fbe485f5c2)
 ---
-![image](https://github.com/user-attachments/assets/d5444595-9771-4472-b581-63fbe485f5c2)
+
 # Amazon VPC Lattice: Simplifying Application Networking  
 
 Amazon VPC Lattice is a fully managed application networking service built directly into AWS infrastructure. It helps connect, secure, and monitor your services across multiple AWS accounts and virtual private clouds (VPCs).  
