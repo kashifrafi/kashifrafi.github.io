@@ -77,6 +77,11 @@ As a Kubernetes user, you can have a very Kubernetes-native experience using the
 
 ![image](https://github.com/user-attachments/assets/d1556b44-8694-40ef-91ea-ea86a2133325)
 
+https://d1.awsstatic.com/events/Summits/reinvent2023/NET326_Amazon-VPC-Lattice-architecture-patterns-and-best-practices.pdf
+
+![image](https://github.com/user-attachments/assets/cd7cdf6d-f3ee-41bb-847d-3e35bda94830)
+
+
 
 
 
