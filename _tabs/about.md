@@ -16,9 +16,9 @@ Beyond my professional endeavors, I’m an advocate for **continuous learning** 
 Thank you for joining me on this journey. Let’s explore, learn, and build together!
 
 # Certifications 
+As a dedicated technologist, I'm committed to constantly evolving and discovering innovative approaches to enhance the performance, scalability, and security of software systems. For me, certifications are more than just accomplishments—they serve as a catalyst for continuous growth and the pursuit of new knowledge
 
 ## AWS
-As a dedicated technologist, I'm committed to constantly evolving and discovering innovative approaches to enhance the performance, scalability, and security of software systems. For me, certifications are more than just accomplishments—they serve as a catalyst for continuous growth and the pursuit of new knowledge
 
 [https://www.credly.com/users/kashif-rafi.a71ed568](https://www.credly.com/users/kashif-rafi.a71ed568)
 
