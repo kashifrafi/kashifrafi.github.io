@@ -3,6 +3,9 @@ title: Amazon VPC Lattice
 dates: 2024-10-12
 categories: [AWS, VPC, EKS, VPC Lattice]
 tags: [AWS, VPC, EKS, VPC Lattice]
+image:
+ path: /assets/images/vpc-lattice
+ alt: "AWS VPC Lattice"
 ---
 
 # Amazon VPC Lattice: Simplifying Application Networking  
