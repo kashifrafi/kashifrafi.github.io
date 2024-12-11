@@ -34,7 +34,9 @@ https://partner.cloudskillsboost.google/public_profiles/04a3c030-4bb8-443e-8b61-
 ![image](https://github.com/user-attachments/assets/83c8820c-4948-48c0-8a5d-2cc5836b8b86)
 ![image](https://github.com/user-attachments/assets/3c26c423-a9ea-435b-b4e8-561cc173f856)
 
-.
+## Disclaimer
+The views and opinions expressed in this blog are solely those of the author and do not necessarily reflect the official policy or position of the current employer or any other organization.
+Any content provided is of personal opinion and is not intended to malign any religion, ethnic group, club, organization, company, or individual.
 
 
 
