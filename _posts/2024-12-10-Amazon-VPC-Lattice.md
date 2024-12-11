@@ -1,4 +1,3 @@
-image: ![image](https://github.com/user-attachments/assets/d5444595-9771-4472-b581-63fbe485f5c2)
 ---
 title: Amazon VPC Lattice
 dates: 2024-10-12
