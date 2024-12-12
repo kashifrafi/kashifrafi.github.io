@@ -69,15 +69,20 @@ For Kubernetes workloads, VPC Lattice uses the **AWS Gateway Controller** to dir
 
 By leveraging Amazon VPC Lattice, you can streamline application networking while maintaining high security and performance across your AWS environment.  
 
+![image](https://github.com/user-attachments/assets/f142983d-7709-40e3-9c47-0d1ec7ffb52d)
 
 
 Relationship between VPC Lattice and Kubernetes
 As a Kubernetes user, you can have a very Kubernetes-native experience using the VPC Lattice APIs. The following figure illustrates how VPC Lattice objects connect to Kubernetes Gateway API  objects:
+![image](https://github.com/user-attachments/assets/1704eed8-61b2-4552-aab2-cb8d7029e779)
 
 
 
 ## Amazon VPC Lattice architecture patterns and best practices
 
 https://d1.awsstatic.com/events/Summits/reinvent2023/NET326_Amazon-VPC-Lattice-architecture-patterns-and-best-practices.pdf
+![image](https://github.com/user-attachments/assets/e6a80bfb-d49a-4bf0-a323-00c3752a084e)
+
+
 
 
