@@ -1,9 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 # About
 ![Kashif_Pics_46146692](https://github.com/user-attachments/assets/5dbb471f-9a2e-4105-81bb-d72606db8299)
 
@@ -24,9 +18,6 @@ https://www.credly.com/users/kashif-rafi.a71ed568
 ![image](https://github.com/user-attachments/assets/18648bd0-378b-4197-8f3e-b9c6cc08c9e1)
 ![image](https://github.com/user-attachments/assets/fe1a36c4-f104-4957-a55e-930dca781d27)
 
-
-
-
 ## Google
 https://partner.cloudskillsboost.google/public_profiles/04a3c030-4bb8-443e-8b61-57730dd959f6
 
@@ -35,10 +26,6 @@ https://partner.cloudskillsboost.google/public_profiles/04a3c030-4bb8-443e-8b61-
 ![image](https://github.com/user-attachments/assets/e90e6c0a-98e0-438e-9bce-ed230686a462)
 ![image](https://github.com/user-attachments/assets/77aed792-7ca1-45c9-bacd-1642fdd7ef77)
 
-
-
-
    
-
 ### Disclaimer
 The views and opinions expressed in this blog are solely those of the author and do not necessarily reflect the official policy or position of the current employer or any other organization. Any content provided is of personal opinion and is not intended to malign any religion, ethnic group, club, organization, company, or individual.
