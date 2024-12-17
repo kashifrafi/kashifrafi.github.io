@@ -120,7 +120,6 @@ spec:
           ports:
             - containerPort: 80
 
----
 apiVersion: v1
 kind: Service
 metadata:
