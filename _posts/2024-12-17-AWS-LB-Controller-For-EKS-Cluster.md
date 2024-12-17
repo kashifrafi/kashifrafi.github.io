@@ -45,19 +45,21 @@ Before you begin, ensure the following:
 
 ## Step-by-Step Configuration
 
+---
 ### Step 1: Create IAM Role
 
 1. Download the IAM policy:
-  
-   curl -O https://raw.githubusercontent.com/kubernetes-sigs/aws-load-balancer-controller/v2.7.2/docs/install/iam_policy.json
-
+```bash
+curl -O https://raw.githubusercontent.com/kubernetes-sigs/aws-load-balancer-controller/v2.7.2/docs/install/iam_policy.json
+```
 2. Create the IAM policy
-
+ ```bash
 aws iam create-policy \
     --policy-name AWSLoadBalancerControllerIAMPolicy \
     --policy-document file://iam_policy.json
+```
 3. Create the IAM role and associate it with the EKS cluster
-
+ ```bash
 eksctl create iamserviceaccount \
     --cluster=my-cluster \
     --namespace=kube-system \
@@ -65,14 +67,17 @@ eksctl create iamserviceaccount \
     --role-name AmazonEKSLoadBalancerControllerRole \
     --attach-policy-arn arn:aws:iam::111122223333:policy/AWSLoadBalancerControllerIAMPolicy \
     --approve
-
+```
+---
 ### Step 2: Install AWS Load Balancer Controller
 
 1. Add the Helm chart repository:
+ ```bash
 helm repo add eks https://aws.github.io/eks-charts
 helm repo update eks
-
+```
 2. Install the controller
+ ```bash
 helm install aws-load-balancer-controller eks/aws-load-balancer-controller \
     -n kube-system \
     --set clusterName=my-cluster \
@@ -80,15 +85,19 @@ helm install aws-load-balancer-controller eks/aws-load-balancer-controller \
     --set serviceAccount.name=aws-load-balancer-controller \
     --set region=region-code \
     --set vpcId=vpc-xxxxxxxx
-
+```
+---
 ### Step 3: Verify Installation
 Check the status of the controller and its pods
+ ```bash
 kubectl get deployment -n kube-system aws-load-balancer-controller
 kubectl get pods -n kube-system
-
+```
+---
 ### Testing the Setup
 
 1. Create a Sample nginx Deployment and LoadBalancer Service
+ ```bash
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -129,21 +138,26 @@ metadata:
         targetPort: 80
         protocol: TCP
     type: LoadBalancer
+```
 
 2. Apply the manifest
+ ```bash
 kubectl apply -f nginx.yaml
-
+```
 3. Verify the LoadBalancer service
+ ```bash
 kubectl get svc nginx-service
-
+```
 4. Test the LoadBalancer
+ ```bash
 curl <external-endpoint>
-
+```
 Cleanup
 To remove all resources
+ ```bash
 kubectl delete -f nginx.yaml
 aws elbv2 delete-target-group --target-group-arn <target-group-arn>
-
+```
 ### Summary
 This guide demonstrated how to configure and test the AWS Load Balancer Controller for Kubernetes services in an EKS cluster. By automating the creation and management of load balancers, the controller enhances the scalability and reliability of Kubernetes workloads while reducing operational overhead.
 
