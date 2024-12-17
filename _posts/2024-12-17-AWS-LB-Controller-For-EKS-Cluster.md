@@ -157,6 +157,7 @@ To remove all resources
 kubectl delete -f nginx.yaml
 aws elbv2 delete-target-group --target-group-arn <target-group-arn>
 ```
+---
 ### Summary
 This guide demonstrated how to configure and test the AWS Load Balancer Controller for Kubernetes services in an EKS cluster. By automating the creation and management of load balancers, the controller enhances the scalability and reliability of Kubernetes workloads while reducing operational overhead.
 
