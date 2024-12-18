@@ -4,8 +4,64 @@ dates: 2024-10-18
 categories: [AWS, Amazon Bedrock, AI]
 tags: [AWS, Amazon Bedrock, AI]
 ---
+# Understanding Amazon Bedrock
 
-# Key Concepts for AI: Understanding Amazon Bedrock
+Amazon Bedrock is a fully managed service that makes high-performing foundation models (FMs) from leading AI companies and Amazon available through a unified API. With Amazon Bedrock, you can choose from a wide range of foundation models to find the one best suited for your use case. It offers robust capabilities to build generative AI applications with a focus on security, privacy, and responsible AI practices. 
+
+Amazon Bedrock provides a serverless experience, enabling you to quickly get started, privately customize foundation models with your own data, and seamlessly integrate and deploy them into your applications using AWS tools—without managing any infrastructure.
+
+---
+
+## **What You Can Do with Amazon Bedrock**
+
+### **1. Experiment with Prompts and Configurations**
+Submit prompts and generate responses by experimenting with various configurations and foundation models. Use the API or graphical interfaces like text, image, and chat playgrounds in the AWS console. Once ready, you can set up your application to make requests using the `InvokeModel` API.
+
+---
+
+### **2. Augment Response Generation with Data Sources**
+Enhance foundation model responses by creating knowledge bases. Upload your data sources to query and provide context or additional information for the model’s responses.
+
+---
+
+### **3. Build Intelligent Applications**
+Create applications capable of reasoning through customer requests. Build agents that utilize foundation models, make API calls, and optionally query knowledge bases to execute tasks efficiently.
+
+---
+
+### **4. Customize Models for Specific Tasks**
+Adapt foundation models to specific domains or tasks using training data. Techniques like fine-tuning or continued pretraining can improve the model’s performance for your unique use cases.
+
+---
+
+### **5. Improve Efficiency with Provisioned Throughput**
+Boost the efficiency of your foundation model-based applications by purchasing Provisioned Throughput. This allows you to run model inference more cost-effectively and efficiently at scale.
+
+---
+
+### **6. Evaluate and Select the Best Model**
+Compare outputs of different models using built-in or custom prompt datasets. This helps determine which model is best suited for your application.
+
+---
+
+### **7. Ensure Content Safety**
+Implement guardrails to prevent inappropriate or unwanted content in your generative AI applications.
+
+---
+
+### **8. Optimize Latency**
+Enhance response times for your AI applications with latency-optimized inference, ensuring faster and more responsive interactions.
+
+---
+
+## **Why Choose Amazon Bedrock?**
+Amazon Bedrock simplifies building generative AI applications by allowing you to:
+- Experiment with top foundation models from leading providers.
+- Customize models privately using your data.
+- Build secure, scalable, and responsible AI applications.
+- Focus on innovation without managing infrastructure.
+
+---
 
 This post explains key terminology to help you understand what Amazon Bedrock offers and how it works. Familiarizing yourself with these concepts will enhance your ability to leverage generative AI and Amazon Bedrock's capabilities.
 
