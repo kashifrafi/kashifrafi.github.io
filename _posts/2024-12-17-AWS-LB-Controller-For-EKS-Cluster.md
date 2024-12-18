@@ -97,7 +97,7 @@ kubectl get pods -n kube-system
 ### Testing the Setup
 
 1. Create a Sample nginx Deployment and LoadBalancer Service
- ```bash
+```bash
 apiVersion: apps/v1
 kind: Deployment
 metadata:
