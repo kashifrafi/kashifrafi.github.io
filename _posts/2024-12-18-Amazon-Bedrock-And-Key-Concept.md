@@ -1,8 +1,8 @@
 ---
-title: VPC Lattice Setup
-dates: 2024-10-12
-categories: [AWS, VPC, EKS, VPC Lattice]
-tags: [AWS, VPC, EKS, VPC Lattice]
+title: Amazon Bedrock and Key Concept
+dates: 2024-10-18
+categories: [AWS, Amazon Bedrock, AI]
+tags: [AWS, Amazon Bedrock, AI]
 ---
 
 # Key Concepts for AI: Understanding Amazon Bedrock
