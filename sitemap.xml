@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kashifrafi.in/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/archives/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/about/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/posts/Amazon-Bedrock-And-Key-Concept/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/posts/AWS-LB-Controller-For-EKS-Cluster/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/posts/AWS-VPC-Lattice/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/posts/VPC-Lattice-Setup/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/aws/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/eks/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/vpc/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/vpc-lattice/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/ai/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/amazon-bedrock/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/nlb-controller/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/service-discovery/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/tags/tg-binding/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/aws/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/amazon-bedrock/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/eks/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/vpc/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/ai/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/nlb-controller/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/tg-binding/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/vpc-lattice/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kashifrafi.in/categories/service-discovery/</loc>
+  <lastmod>2024-12-22T10:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
