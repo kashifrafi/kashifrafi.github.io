@@ -4,6 +4,9 @@ dates: 2024-10-18
 categories: [AWS, Amazon Bedrock, AI]
 tags: [AWS, Amazon Bedrock, AI]
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5684321510124560"
+     crossorigin="anonymous"></script>
 # Understanding Amazon Bedrock
 
 Amazon Bedrock is a fully managed service that makes high-performing foundation models (FMs) from leading AI companies and Amazon available through a unified API. With Amazon Bedrock, you can choose from a wide range of foundation models to find the one best suited for your use case. It offers robust capabilities to build generative AI applications with a focus on security, privacy, and responsible AI practices. 
