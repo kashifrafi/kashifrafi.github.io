@@ -54,12 +54,7 @@ Enhance response times for your AI applications with latency-optimized inference
 
 ---
 
-## **Why Choose Amazon Bedrock?**
-Amazon Bedrock simplifies building generative AI applications by allowing you to:
-- Experiment with top foundation models from leading providers.
-- Customize models privately using your data.
-- Build secure, scalable, and responsible AI applications.
-- Focus on innovation without managing infrastructure.
+## **Key Concept
 
 ---
 
