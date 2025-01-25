@@ -16,7 +16,8 @@ By following this script, you'll:
 2. Deploy GatewayClass and Gateway configurations for traffic routing.
 3. Establish and verify north-south connectivity using HTTPRoutes.
 4. Test service-to-service communication with DNS-based routing.
-   
+---
+
 ```bash
 
 !/bin/bash
@@ -116,7 +117,10 @@ helm upgrade gateway-api-controller \
 echo "Waiting for 3 minutes after updating Helm chart..."
 sleep 180  # Sleep for 180 seconds (3 minutes)
 
-```bash
+```
+
+---
+
 ### Test Deployemnt and North-South Connectivity Testing
 ```bash
 1 Apply the "my-hotel" gateway configuration
@@ -154,4 +158,4 @@ echo -e "Rates FQDN: $ratesFQDN\nInventory FQDN: $inventoryFQDN"
 echo "Verifying service-to-service communication..."
 kubectl exec deploy/inventory-ver1 -- curl -s $ratesFQDN/parking $ratesFQDN/review
 kubectl exec deploy/parking -- curl -s $inventoryFQDN
-```bash
+```
