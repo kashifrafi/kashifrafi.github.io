@@ -111,3 +111,4 @@ Outputs:
   PublicIP:
     Description: "Public IP address of the EC2 instance"
     Value: !GetAtt EC2Instance.PublicIp
+```yaml
