@@ -117,12 +117,8 @@ helm upgrade gateway-api-controller \
 echo "Waiting for 3 minutes after updating Helm chart..."
 sleep 180  # Sleep for 180 seconds (3 minutes)
 
-```
+# Test Deployemnt and North-South Connectivity Testing
 
----
-
-### Test Deployemnt and North-South Connectivity Testing
-```bash
 1 Apply the "my-hotel" gateway configuration
 echo "Creating the 'my-hotel' gateway..."
 kubectl apply -f /prod-eks-2/test/aws-application-networking-k8s/files/examples/my-hotel-gateway.yaml
