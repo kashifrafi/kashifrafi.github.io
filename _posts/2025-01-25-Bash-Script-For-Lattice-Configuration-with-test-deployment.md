@@ -5,8 +5,8 @@ categories: [AWS, VPC, Lattice, Test Deployment]
 tags: [AWS, VPC, Lattice, Test Deployment]
 ---
 
-### Automated Guide to VPC Lattice Setup and North-South Traffic Testing in Amazon EKS 
-Modern applications require seamless and secure service-to-service communication, especially when operating at scale in the cloud. Amazon Elastic Kubernetes Service (EKS) combined with AWS VPC Lattice provides an efficient way to implement scalable, north-south communication and streamline traffic management between services.
+### Automated Guide to VPC Lattice Setup and East-West Traffic Testing in Amazon EKS 
+Modern applications require seamless and secure service-to-service communication, especially when operating at scale in the cloud. Amazon Elastic Kubernetes Service (EKS) combined with AWS VPC Lattice provides an efficient way to implement scalable, east-west communication and streamline traffic management between services.
 
 This script is a step-by-step guide to deploying the AWS Gateway API Controller for EKS using VPC Lattice. It simplifies the setup process by automating key configurations, such as IAM policies, service accounts, and Gateway API installations, ensuring a smooth integration with your Kubernetes environment.
 
