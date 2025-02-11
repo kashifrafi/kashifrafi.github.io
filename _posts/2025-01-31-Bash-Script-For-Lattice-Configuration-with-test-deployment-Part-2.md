@@ -3,12 +3,11 @@ title: Bash Script For Lattice Configuration With Test Deployment Part-2
 dates: 2024-01-31
 categories: [AWS, VPC, Lattice, Test Deployment]
 tags: [AWS, VPC, Lattice, Test Deployment]
-thumbnail: ![a111](https://github.com/user-attachments/assets/989f310d-2a9d-495e-a45d-72154749fc73)
+thumbnail: https://github.com/user-attachments/assets/989f310d-2a9d-495e-a45d-72154749fc73
 author: Kashif Rafi
 comments: true
-thumbs_up: true
 ---
-
+![a111](https://github.com/user-attachments/assets/989f310d-2a9d-495e-a45d-72154749fc73)
 
 ### Automated Guide to VPC Lattice Setup and East-West & North South Traffic Testing in Amazon EKS 
 Modern applications require seamless and secure service-to-service communication, especially when operating at scale in the cloud. Amazon Elastic Kubernetes Service (EKS) combined with AWS VPC Lattice provides an efficient way to implement scalable, east-west communication and streamline traffic management between services.
@@ -578,3 +577,4 @@ aws iam delete-policy --policy-arn "arn:aws:iam::$AWS_ACCOUNT_ID:policy/VPCLatti
 echo "Cleanup completed successfully."
 
 ```
+<i class="fas fa-thumbs-up"></i>
