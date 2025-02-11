@@ -3,7 +3,6 @@ title: Bash Script For Lattice Configuration With Test Deployment Part-2
 dates: 2024-01-31
 categories: [AWS, VPC, Lattice, Test Deployment]
 tags: [AWS, VPC, Lattice, Test Deployment]
-image: Kashif_Pics_46146692.jpg
 ---
 
 
