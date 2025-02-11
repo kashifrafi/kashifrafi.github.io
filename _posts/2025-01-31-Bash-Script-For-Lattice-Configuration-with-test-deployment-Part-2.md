@@ -573,4 +573,3 @@ aws iam delete-policy --policy-arn "arn:aws:iam::$AWS_ACCOUNT_ID:policy/VPCLatti
 echo "Cleanup completed successfully."
 
 ```
-<i class="fas fa-thumbs-up"></i>
