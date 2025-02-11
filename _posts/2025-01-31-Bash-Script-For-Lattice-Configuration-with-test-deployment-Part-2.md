@@ -3,9 +3,11 @@ title: Bash Script For Lattice Configuration With Test Deployment Part-2
 dates: 2024-01-31
 categories: [AWS, VPC, Lattice, Test Deployment]
 tags: [AWS, VPC, Lattice, Test Deployment]
+thubnil: ![a111](https://github.com/user-attachments/assets/989f310d-2a9d-495e-a45d-72154749fc73)
+author: Kashif Rafi
+comments: true
+thumbs_up: true
 ---
-
-![a111](https://github.com/user-attachments/assets/989f310d-2a9d-495e-a45d-72154749fc73)
 
 
 ### Automated Guide to VPC Lattice Setup and East-West & North South Traffic Testing in Amazon EKS 
