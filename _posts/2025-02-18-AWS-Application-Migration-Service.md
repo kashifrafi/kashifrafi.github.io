@@ -1,9 +1,10 @@
 ---
-title: VAWS Application Migration Service
+title: AWS Application Migration Service
 dates: 2025-02-18
 categories: [AWS, Migration]
 tags: [AWS, Migration]
 ---
+![image](https://github.com/user-attachments/assets/d4aa6f9d-9311-4501-bbe5-5b0a7282a11a)
 
 # Understanding AWS Application Migration Service: Architecture and Network Setup
 
@@ -88,7 +89,6 @@ To ensure a smooth migration, you’ll need to set up the following network conn
 
 AWS Application Migration Service is a powerful tool for simplifying and accelerating your cloud migration journey. By leveraging its automated, block-level replication capabilities, you can migrate applications and databases to AWS with minimal downtime and disruption. Whether you’re moving physical, virtual, or cloud-based servers, AWS Application Migration Service provides the flexibility and reliability you need to ensure a successful migration.
 
-Ready to take the next step? Explore AWS Application Migration Service today and unlock the full potential of the cloud for your business.
 
 ---
 
