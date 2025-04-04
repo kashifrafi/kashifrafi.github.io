@@ -1,5 +1,5 @@
 ---
-title: Bash Script For Lattice Configuration With Test Deployment
+title: Bash Script For Lattice Configuration With Test Deployment-Part-1
 dates: 2024-01-25
 categories: [AWS, VPC, Lattice, Test Deployment]
 tags: [AWS, VPC, Lattice, Test Deployment]
