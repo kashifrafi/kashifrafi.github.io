@@ -7,8 +7,8 @@ order: 4
 ![Kashif_Pics_46146692](https://github.com/user-attachments/assets/5dbb471f-9a2e-4105-81bb-d72606db8299)
 
 
-Hello, I’m Kashif Rafi
-With over 18 years of experience in the IT industry, I have carved my path as a seasoned Cloud Solution Architect. My journey has been defined by a passion for innovation, problem-solving, and empowering teams to excel in the rapidly evolving world of cloud computing.
+Hello, I’m Kashif Rafi  
+I am a seasoned Cloud Solution Architect with a deep-rooted passion for innovation, problem-solving, and empowering teams to excel in the ever-evolving world of cloud computing. My journey in the IT industry has been shaped by a commitment to driving impactful solutions and embracing new challenges.
 
 Beyond my professional endeavors, I’m an advocate for continuous learning and knowledge-sharing, striving to inspire others with my experiences and insights.
 
