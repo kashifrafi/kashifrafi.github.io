@@ -85,11 +85,7 @@ To ensure a smooth migration, you’ll need to set up the following network conn
 
 ---
 
-## Conclusion
-
-AWS Application Migration Service is a powerful tool for simplifying and accelerating your cloud migration journey. By leveraging its automated, block-level replication capabilities, you can migrate applications and databases to AWS with minimal downtime and disruption. Whether you’re moving physical, virtual, or cloud-based servers, AWS Application Migration Service provides the flexibility and reliability you need to ensure a successful migration.
-
-
----
-
-Let me know if you’d like to add or modify anything in this blog post!
+<!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-i18n_like="Like" data-identifier="item_1"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
