@@ -222,3 +222,5 @@ curl -X POST http://localhost:8000/mcp/v1/invoke/approve_remediation_plan -H "Co
 
 # Remediate an issue
 curl -X POST http://localhost:8000/mcp/v1/invoke/remediate_issue -H "Content-Type: application/json" -d '{"resource_type":"Pod", "namespace":"default", "resource_name":"broken-pod", "issue_type":"CrashLoopBackOff"}'
+
+```
