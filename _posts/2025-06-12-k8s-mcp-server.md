@@ -5,7 +5,6 @@ categories: [AWS, mcp, k8s, AI, Q Cli, Cloude-Sonet]
 tags: [AWS, mcp, k8s, AI, Q Cli, Cloude-Sonet]
 ---
 
-# Enhancing Kubernetes Management with Model Context Protocol (MCP) Servers
 
 ## Introduction
 
@@ -17,8 +16,6 @@ powerful bridge between AI assistants like Amazon Q and your Kubernetes infrastr
 
 The Model Context Protocol (MCP) is an open protocol that standardizes how applications provide context to Large Language Models (LLMs). It enables 
 seamless communication between AI systems and specialized tools, extending the capabilities of AI assistants with domain-specific functionality.
-
-## The Kubernetes MCP Server: A Game-Changer for Cluster Management
 
 Our Kubernetes MCP server is designed to analyze and remediate issues in Kubernetes clusters through an approval-based workflow. It provides a secure, 
 controlled interface between AI assistants and your Kubernetes infrastructure.
@@ -107,7 +104,6 @@ Kubernetes management, it enables more efficient, controlled, and intelligent op
 
 As the complexity of Kubernetes deployments continues to grow, tools like our MCP server will become essential components of the cloud-native toolkit, 
 helping organizations maintain reliable, efficient infrastructure with less manual effort.
-
 
 
 # Kubernetes MCP Server
