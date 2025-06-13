@@ -5,6 +5,8 @@ categories: [AWS, mcp, k8s, AI, Q Cli, Cloude-Sonet]
 tags: [AWS, mcp, k8s, AI, Q Cli, Cloude-Sonet]
 ---
 
+![image](https://github.com/user-attachments/assets/172d0472-e34a-45a6-a71b-5d590d23a16c)
+
 
 ## Introduction
 
@@ -122,6 +124,9 @@ A production-ready Model Context Protocol (MCP) server for analyzing and remedia
   - OOMKilled
   - Pending
   - Evicted
+## High level flow 
+
+![image](https://github.com/user-attachments/assets/395bd4d5-2177-4061-821b-abce8243874f)
 
 ## Installation
 
