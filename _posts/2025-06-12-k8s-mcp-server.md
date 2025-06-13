@@ -1,8 +1,8 @@
 ---
 title: Enhancing Kubernetes Management with Model Context Protocol (MCP) Servers
 dates: 2025-06-12
-categories: [AWS, mcp, k8s, AI, Q Cli, Cloude Sonet]
-tags: [AWS, mcp, k8s, AI, Q Cli, Cloude Sonet]
+categories: [AWS, mcp, k8s, AI, Q Cli, Cloude-Sonet]
+tags: [AWS, mcp, k8s, AI, Q Cli, Cloude-Sonet]
 ---
 
 # Enhancing Kubernetes Management with Model Context Protocol (MCP) Servers
@@ -201,6 +201,7 @@ sudo systemctl status k8s-mcp-server
 - `approve_remediation_plan`: Approve a remediation plan
 - `remediate_issue`: Remediate a pod issue
 - `test`: Test if the server is working
+---
 
 ## Testing the Server
 
@@ -222,5 +223,4 @@ curl -X POST http://localhost:8000/mcp/v1/invoke/approve_remediation_plan -H "Co
 
 # Remediate an issue
 curl -X POST http://localhost:8000/mcp/v1/invoke/remediate_issue -H "Content-Type: application/json" -d '{"resource_type":"Pod", "namespace":"default", "resource_name":"broken-pod", "issue_type":"CrashLoopBackOff"}'
-
 ```
