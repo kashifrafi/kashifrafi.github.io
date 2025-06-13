@@ -124,6 +124,7 @@ A production-ready Model Context Protocol (MCP) server for analyzing and remedia
   - OOMKilled
   - Pending
   - Evicted
+
 ## High level flow 
 
 ![image](https://github.com/user-attachments/assets/395bd4d5-2177-4061-821b-abce8243874f)
@@ -202,6 +203,7 @@ sudo systemctl status k8s-mcp-server
 - `approve_remediation_plan`: Approve a remediation plan
 - `remediate_issue`: Remediate a pod issue
 - `test`: Test if the server is working
+
 ---
 
 ## Testing the Server
