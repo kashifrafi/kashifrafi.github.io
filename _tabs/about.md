@@ -7,18 +7,25 @@ order: 4
 ![Kashif_Pics_46146692](https://github.com/user-attachments/assets/5dbb471f-9a2e-4105-81bb-d72606db8299)
 
 
-Hello, I’m Kashif Rafi  
-I am a seasoned Cloud Solution Architect with a deep-rooted passion for innovation, problem-solving, and empowering teams to excel in the ever-evolving world of cloud computing. My journey in the IT industry has been shaped by a commitment to driving impactful solutions and embracing new challenges.
+Hello, I’m Kashif Rafi 
+I am a Cloud & AI Architect with a deep‑rooted passion for innovation, problem‑solving, and building intelligent systems at scale. My journey in the IT industry has been driven by a strong commitment to designing impactful, cloud‑native solutions and enabling teams to succeed in an ever‑evolving technology landscape.
+Over the years, I have evolved from architecting cloud platforms to focusing deeply on AI‑first and agentic system design. Today, my primary interest lies in Agentic AI product architecture and development—designing autonomous, goal‑driven systems that combine cloud scalability, AI intelligence, memory, evaluation, and governance. I enjoy working at the intersection of cloud infrastructure, platform engineering, and AI autonomy, transforming complex ideas into production‑ready architectures.
+I am particularly passionate about:
 
-Beyond my professional endeavors, I’m an advocate for continuous learning and knowledge-sharing, striving to inspire others with my experiences and insights.
+Designing agentic AI platforms using cloud‑native and microservices principles
+Architecting secure, scalable, and observable AI systems
+Applying platform engineering practices to accelerate AI adoption
+Exploring how autonomous agents can reshape software development, operations, and decision‑making
 
-Thank you for joining me on this journey. Let’s explore, learn, and build together!
+Beyond my professional work, I am a strong advocate for continuous learning and knowledge sharing. I actively enjoy learning from global communities, sharing real‑world experiences, and helping others navigate their cloud and AI journeys.
+Let’s explore, learn, and build intelligent systems together
 
 ## Certifications
 As a dedicated technologist, I’m committed to constantly evolving and discovering innovative approaches to enhance the performance, scalability, and security of software systems. For me, certifications are more than just accomplishments—they serve as a catalyst for continuous growth and the pursuit of new knowledge
 
 ## AWS
 https://www.credly.com/users/kashif-rafi.a71ed568
+https://www.credly.com/users/mohammed-kashif-rafi
 
 ![image](https://github.com/user-attachments/assets/18648bd0-378b-4197-8f3e-b9c6cc08c9e1)
 ![image](https://github.com/user-attachments/assets/fe1a36c4-f104-4957-a55e-930dca781d27)
@@ -31,6 +38,8 @@ https://partner.cloudskillsboost.google/public_profiles/04a3c030-4bb8-443e-8b61-
 ![image](https://github.com/user-attachments/assets/e90e6c0a-98e0-438e-9bce-ed230686a462)
 ![image](https://github.com/user-attachments/assets/77aed792-7ca1-45c9-bacd-1642fdd7ef77)
 
+## Microsoft
+https://learn.microsoft.com/api/credentials/share/en-us/MohammedKashifRafi-9870/80E54E5209270C02?sharingId=A775D1EB20C84C8D
    
 ### Disclaimer
 The views and opinions expressed in this blog are solely those of the author and do not necessarily reflect the official policy or position of the current employer or any other organization. Any content provided is of personal opinion and is not intended to malign any religion, ethnic group, club, organization, company, or individual.
