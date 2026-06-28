@@ -1,12 +1,10 @@
 ---
 title: From Diagram to Deployment: Building an AI-Powered Cloud Architecture Assistant for Cloud Practitioners
 dates: 2026-06-28
-categories: [AWS, Bedrock, OpenAI]
-tags: [AWS, Bedrock, OpenAI, RAG, ChromaDB, EC2, OpenAI]
+categories: [AWS, Bedrock, OpenAI ]
+tags: [AWS, Bedrock, OpenAI, RAG, ChromaDB, EC2, OpenAI ]
 ---
 <img width="1917" height="1014" alt="archlens" src="https://github.com/user-attachments/assets/6f421ae8-095a-4c1c-967f-780ffbea9407" />
-
-#From Diagram to Deployment: Building an AI-Powered Cloud Architecture Assistant for Cloud Practitioners
 
 ## Introduction
 
